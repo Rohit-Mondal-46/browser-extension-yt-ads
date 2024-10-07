@@ -6,7 +6,8 @@
   "permissions": [
     "tabs", 
     "storage",
-    "webNavigation"
+    "webNavigation",
+    "scripting"
   ],
   "host_permissions": [
     "https://*.youtube.com/*"
